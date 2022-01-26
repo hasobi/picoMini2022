@@ -1,0 +1,1 @@
+convert number showed in your terminal to binary then you'll have your flag.
