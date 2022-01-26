@@ -1,0 +1,1 @@
+paste "nc saturn.picoctf.net 52194" to your terminal and you'll have your flag.
