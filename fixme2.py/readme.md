@@ -1,6 +1,4 @@
-# modify the if-else statement to
-
-## flag
+# modify the if-else statement similiar to the below
 
 ```python
 # if flag = "":
