@@ -1,6 +1,9 @@
 # How to produce flag
 
 ## 1. Paste the nc saturn.picoctf.net 51108 to the terminal
+```
+nc saturn.picoctf.net 51108
+```
 
 ## 2. You'll have to solve or convert the text to MD5 several times
 
